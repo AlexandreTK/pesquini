@@ -58,3 +58,5 @@ group :development, :test do
   gem 'selenium-cucumber', '~> 2.1.3'
 end
 
+
+gem 'rails_12factor', group: :production
